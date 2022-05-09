@@ -15,7 +15,12 @@ return resul
 2. sumaVector(v1, v2): Suma dos vectores v1 y v2 si y solo si tienen el mismo numero de
 elementos.*/
 
-function sumaVector(v1, v2,v3){
+
+function sumaVector2(v1, v2,v3){
+=======
+/*
+function sumaVector(v1, v2){
+
 
     let resul1=[];
     for ( let i = 0 ; i< v1.length ; i++){
@@ -24,7 +29,11 @@ function sumaVector(v1, v2,v3){
         }
      }return resul1
 }
+
 //console.log(sumaVector([1,2,3],[1,2,3],[1,2,3));
+=======
+//console.log(sumaVector([1,2,3],[1,2,3]));*/
+
 
 //3. productoNumeroVector(n, v): Multiplica el vector v por el numero n.
 
